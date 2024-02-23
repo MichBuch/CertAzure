@@ -1,0 +1,30 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    version: '6.0.x'
+    includePreviewVersions: false
+
+- script: dotnet restore
+  displayName: 'dotnet restore'
+
+- script: dotnet build --no-restore
+  displayName: 'dotnet build'
+
+# Optional: Include dotnet test command if you have tests
+# - script: dotnet test --no-build --verbosity normal
+#   displayName: 'dotnet test'
+
+- script: dotnet publish --no-build --configuration Release --output $(Build.ArtifactStagingDirectory)
+  displayName: 'dotnet publish'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
