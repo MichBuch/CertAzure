@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vRdZZVwkYR+F1pqsxvcbLST4e7ho8OkNYSOpWbrN41M=",
+  "Hash": "E9NE/+nKGe9//fsjG6QbTyGgJgVVC9Xj947/JUZcgUY=",
   "Source": "CertAzure",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.tsfdoydu75.js",
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.2k3kt76wgp.js",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.tsfdoydu75.js",
+      "RelativePath": "_framework/dotnet.native.8.0.3.2k3kt76wgp.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.wll7vduyq7.js",
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.18earm9gjp.js",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.wll7vduyq7.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.18earm9gjp.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\MB\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -3969,6 +3969,25 @@
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\mscorlib.wasm"
     },
     {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\18earm9gjp.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.18earm9gjp.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.18earm9gjp.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.18earm9gjp.js"
+    },
+    {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\1ax0p0ypde.gz",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
@@ -4140,6 +4159,25 @@
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm"
     },
     {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\2k3kt76wgp.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.3.2k3kt76wgp.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.2k3kt76wgp.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.2k3kt76wgp.js"
+    },
+    {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\2nwc2dl8xh.gz",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
@@ -4214,6 +4252,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.wasm"
+    },
+    {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\3noo1jdj2i.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\421jgba54u.gz",
@@ -4385,6 +4442,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.wasm"
+    },
+    {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\4oodxwesx8.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\4qqrzvgcl3.gz",
@@ -4729,6 +4805,25 @@
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.wasm"
     },
     {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\93r1j1umgf.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\9pfyraderx.gz",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
@@ -4765,25 +4860,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.DispatchProxy.wasm"
-    },
-    {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\a2bt63690k.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\a83fz2poq1.gz",
@@ -4843,6 +4919,25 @@
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm"
     },
     {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\ais3iri32p.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\aqq3i297wf.gz",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
@@ -4879,6 +4974,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Handles.wasm"
+    },
+    {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\at0pl1mc4t.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\azsv5501jo.gz",
@@ -5183,25 +5297,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.wasm"
-    },
-    {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\cb75734pm4.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\cf1dri2ng3.gz",
@@ -5753,6 +5848,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.wasm"
+    },
+    {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\hg2j41lyvs.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\hi70krvc6a.gz",
@@ -6325,6 +6439,25 @@
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.wasm"
     },
     {
+      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\mn80v9vihu.gz",
+      "SourceId": "CertAzure",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\n82atoikky.gz",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
@@ -6399,25 +6532,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Json.wasm"
-    },
-    {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\nqqb25cna9.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\ocq0cdcods.gz",
@@ -6857,25 +6971,6 @@
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.ServicePoint.wasm"
     },
     {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\sm3kg6j9be.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\smfieojj94.gz",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
@@ -7045,25 +7140,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Mail.wasm"
-    },
-    {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\tsfdoydu75.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.tsfdoydu75.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.tsfdoydu75.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.tsfdoydu75.js"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\tw50rbt4tw.gz",
@@ -7313,25 +7389,6 @@
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Memory.wasm"
     },
     {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\vpkz002x71.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\vv3toe04fc.gz",
       "SourceId": "CertAzure",
       "SourceType": "Computed",
@@ -7406,25 +7463,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Immutable.wasm"
-    },
-    {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\wll7vduyq7.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.wll7vduyq7.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.wll7vduyq7.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.wll7vduyq7.js"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\wzpeh9bfzz.gz",
@@ -7691,44 +7729,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm"
-    },
-    {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\zkikn2c4ba.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
-      "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\zn7u97vvlq.gz",
-      "SourceId": "CertAzure",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Lib\\Dev\\Hosting\\CertAzure\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Lib\\Dev\\Hosting\\CertAzure\\obj\\Debug\\net8.0\\compressed\\zpxh27msi0.gz",

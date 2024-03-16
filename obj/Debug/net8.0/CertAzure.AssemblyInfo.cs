@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CertAzure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e91a659f007675b97e1a10f8fc79328d029f7dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e45f4ae7c4c9f09b6732416826ad4ba2b6b7c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CertAzure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CertAzure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
