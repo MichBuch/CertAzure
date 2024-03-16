@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CertAzure",
   "resources": {
-    "hash": "sha256-oZBsDj5ntAgQthIY3SQ1xh/7gaPORX5oB7y/H0qhjBM=",
+    "hash": "sha256-9JlTdmLoFAVLS1VY6WO3bX33jVQRGq9ztiR0bWJHPzc=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.2k3kt76wgp.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "CertAzure.wasm": "sha256-GrRVNOxMUIw7tKmQNHhiOWUzxDSc/ZpBDhnLnSR5xgA="
+      "CertAzure.wasm": "sha256-Uc5DKz33CbalHgzpHsOy9X86LRp6TBz3l/6FqKQr1FQ="
     },
     "pdb": {
-      "CertAzure.pdb": "sha256-GzbTMEHOIqPNkZlRoasvnxZsPJZcayeo8yEyJeav+fg="
+      "CertAzure.pdb": "sha256-nrmkHswxZS8LJZ1P8d1AEUsumkLUylHSCGKGIrz3xFM="
     }
   },
   "cacheBootResources": true,
